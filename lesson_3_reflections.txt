@@ -18,3 +18,8 @@ How would you collaborate without using Git or GitHub? What would be easier, and
 
   You'll probably need a cloud server or be in the same room. I'm assuming it would be harder to collaborate in general, but it will be more secure since you are 
   sharing all your code to the public.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+  When you work in a group and want to add a new feature. This way it will be easier to check for errors on etc.
+  
